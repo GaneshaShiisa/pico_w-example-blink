@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.12)
 
-set(PICO_SDK_PATH "../../pico-sdk")
+set(PICO_SDK_PATH "C:/Program Files/Raspberry Pi/Pico SDK v1.5.0/pico-sdk")
 set(PICO_BOARD "pico_w")
 
 # Pull in SDK (must be before project)
